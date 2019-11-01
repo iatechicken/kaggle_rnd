@@ -1,0 +1,43 @@
+Baseline for Final Project
+---------------------------
+Note: These details were gathered from the Week 9 Live Session
+
+**Due by end of Week 10 (Sunday 11/3/19 11:59PM PST)**
+
+* Create the beginning of an notebook (.ipynb file) (one for entire team)
+   - Highlight the problem being solved, and why anyone cares
+   - Clarify what's prediction, the data, the model
+   - Articulate the ideas you have for the model
+   - Articulate how you would go about processing the data in the model
+* Want to make sure the problem is understood
+* Want to make sure you know how you want to test your approaches
+* The baseline will be graded based on submission and effort
+
+**Show up to Week 11 office hours to go through the week 10 baseline submission with Yacov**
+
+*************************************
+** Notes From Week 10 Live Session **
+*************************************
+
+Purpose of baseline
+ - make sure you're off to a good start
+ - make sure there are no surprises at end of semester to do a mad rush
+ - there to help Yacov help us to finish successfuly
+ 
+What works really well by this stage, as a team, be sure you've
+ - consumed what the problem is
+ - understood why should anyone care (what's point of solving this)
+ - more details on representation of the problem (in terms of weekly discussion
+     - what happens at inferences
+     - what's input & output
+     - kinds of models to consider
+     - kinds of features (feature engineering)
+     - how you go about training
+     - start doing some EDA
+ - don't expect a full detailed solution
+ 
+Submit Baseline by end of week 10, start meeting with Yacov during Week 11 office hours
+ 
+In terms of scientific papers, this baseline submission would be similar to introduction, abstract, & the methods of a paper.
+     
+
